@@ -43,9 +43,13 @@ Before you start, ensure you have the following dependencies installed:
    git clone https://github.com/your-username/travel-destinations-showcase.git
 
 2. Navigate to the project directory:
+
+    ```bash
     cd travel-destinations-showcase
 
 3. Install project dependencies:
+
+    ```bash
     npm install
 
 ### Usage
